@@ -41,7 +41,4 @@ Contributions are always welcome!
 ![App Screenshot](https://github.com/geeksforgeeksorg/Meeting-Application/blob/main/screenshots/meeting-page-of-joiner.png?raw=true)
 
 
-## Authors
-
-- [@saurabhjais](https://www.github.com/saurabhjais)
 
